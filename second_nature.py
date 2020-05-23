@@ -3,9 +3,10 @@ import time
 
 
 def game_reset():
-    colony_food = 10
-    colony_pop = 5
-    colony_housing = 2
+    """reset the game"""
+    food = 10
+    population = 5
+    housing = 2
 
 
 print("Second Nature")
