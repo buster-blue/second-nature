@@ -10,3 +10,5 @@ def game_reset():
 
 print("Second Nature")
 time.sleep(3)
+print("Reach a population of 20 to win")
+time.sleep(3)
